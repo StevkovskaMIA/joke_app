@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "652184375889",
+    "project_id": "jokeapp-bf1af",
+    "storage_bucket": "jokeapp-bf1af.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:652184375889:android:fb3a842e1e665160d55e70",
+        "android_client_info": {
+          "package_name": "com.exa"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCttEXdo8vpjXM-ZFpltUqsyim5o_PXDuo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:652184375889:android:64ce4955e630d8e7d55e70",
+        "android_client_info": {
+          "package_name": "com.example.joke_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCttEXdo8vpjXM-ZFpltUqsyim5o_PXDuo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
